@@ -13,7 +13,7 @@
 #
 #
 ### Birinchi navbatda siz `login-menu` page ko'rinadi:
-##### u yerda siz teacher bo'limini tanlab email=`maqsud@gmail.com` password=`Maqsudkhan` CID data orqali login qilishingiz mumkin.
+##### u yerda siz teacher bo'limini tanlab email=`maqsud@gmail.com` password=`Maqsudkhan` CD data orqali login qilishingiz mumkin.
 ##### Va siz director sifatida kirgan istalga cardni tanlaysiz va ong tarafda side bar ochiladi, barcha qila oladigan ishlaringi usha yerda boladi
 ##### Aga Teacher/Student login qilmoqchi bolsa emailini  va emailiga yuborilgan passwordni kiritib login qiladi
 #
